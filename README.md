@@ -34,6 +34,7 @@ You're on a call at night, the kids are asleep, and your voice creeps up without
 - **Your alerts, your way.** Glow, flash and shake, each with its own toggle. Pick the warning and alarm colors.
 - **Your own alarm sound.** Use the built-in *Chime* or *Ding-dong*, or load any MP3, WAV or OGG and choose the exact 1–10 s fragment that plays.
 - **Mute in one click.** Keep the light and the shake, silence the sound.
+- **Stats with a sense of humor.** Each session, day and week gets a verdict, from *Loved by the household* to *The building's public enemy*, in English or Spanish.
 - **Stays up to date.** Hush tells you when a new version is out and updates with one click, after checking the installer's checksum.
 - **Private by design.** Audio is analyzed on your computer and never recorded or sent anywhere.
 
@@ -63,7 +64,7 @@ You're on a call at night, the kids are asleep, and your voice creeps up without
 
 ### Windows 10 / 11
 
-1. Download `Hush_0.10.0_x64-setup.exe` from the [latest release](https://github.com/AlejandroLunaDev/hush-app/releases/latest).
+1. Download `Hush_0.11.0_x64-setup.exe` from the [latest release](https://github.com/AlejandroLunaDev/hush-app/releases/latest).
 2. Run it. Windows may show **"Windows protected your PC"**. That's because the app isn't code-signed yet, not because something is wrong. Click **More info → Run anyway**.
 3. The first time Hush opens, pick your microphone, set your limits, and it starts listening.
 
@@ -71,7 +72,7 @@ If Windows blocks the microphone, open **Settings › Privacy & security › Mic
 
 ### macOS (beta)
 
-1. Download `Hush_0.10.0_universal.dmg` from the [latest release](https://github.com/AlejandroLunaDev/hush-app/releases/latest). It runs on Apple Silicon and Intel Macs.
+1. Download `Hush_0.11.0_universal.dmg` from the [latest release](https://github.com/AlejandroLunaDev/hush-app/releases/latest). It runs on Apple Silicon and Intel Macs.
 2. Open the `.dmg` and drag **Hush** to **Applications**.
 3. The app isn't notarized by Apple yet, so the first time, **right-click Hush → Open → Open**. If macOS still refuses, go to **System Settings › Privacy & Security** and click **Open Anyway**.
 4. Allow microphone access when macOS asks.
@@ -80,7 +81,7 @@ The macOS build hasn't been tested on real Mac hardware yet. Expect rough edges,
 
 ## Status
 
-**0.10.0 is a public beta.** Everything works, but it has had little real-world use so far. Found a bug or have an idea? [Open an issue](https://github.com/AlejandroLunaDev/hush-app/issues).
+**0.11.0 is a public beta.** Everything works, but it has had little real-world use so far. Found a bug or have an idea? [Open an issue](https://github.com/AlejandroLunaDev/hush-app/issues).
 
 The source code is private. This repository hosts the downloads and release notes.
 
